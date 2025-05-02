@@ -1,74 +1,118 @@
-<!-- ✨ HEADER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🌊 GLAZED WAVE HEADER                    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://capsule-render.vercel.app/api?
+type=waving&height=230&text=Hiroki%20Matsumoto&fontSize=45&fontColor=FFFFFF
+&fontAlignY=40&desc=Full-stack%20Maker%20|%20Flutter%20•%20React%20•%20AI
+&descSize=20&descAlignY=65
+&color=0:8e44ad,50:4834d4,100:1abc9c" />
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Hiroki+%F0%9F%91%8B;Full-stack+Dev+from+Japan"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24
+    &duration=3500&pause=500&center=true&vCenter=true&multiline=true
+    &width=600&height=45
+    &lines=Welcome+to+my+Lab;I+build+Mobile+📱+and+Web+🌐+Apps;
+    Learning+something+new+every+day..."
     alt="Typing SVG"
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/catppuccin-wave/main/waves/wave-purple.svg" />
-
-<!-- 🗺️ SUMMARY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙪𝙢𝙢𝙖𝙧𝙮
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  📈 GITHUB SUMMARY (3-D CONTRIB & GRAPH)  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <!-- Contributions graph -->
+  <!-- 3-D skyline (requires scheduled Action) -->
+  <img width="690"
+       src="https://raw.githubusercontent.com/matuhiro97/matuhiro97/main/profile-3d-contrib/profile-night-rainbow.svg"
+       alt="3-D contribution skyline"/>
+
+  <!-- Activity heatmap -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matuhiro97&theme=react-dark&area=true&hide_border=true"
-    alt="Contribution graph"
+    src="https://github-readme-activity-graph.vercel.app/graph
+    ?username=matuhiro97&theme=react-dark&area=true&hide_border=true"
+    alt="Activity graph"
   />
 </p>
 
-<!-- 📊 STATE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙩𝙖𝙩𝙚
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🛰️ GITHUB STATS / LANGS / STREAK        -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matuhiro97&show_icons=true&theme=darkhub&count_private=true&hide_border=true"
-    alt="Stats card"
-  />
+    src="https://github-readme-stats.vercel.app/api
+    ?username=matuhiro97&show_icons=true&theme=onedark&count_private=true
+    &hide_border=true"
+    height="170"
+    alt="Stats"/>
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matuhiro97&layout=compact&theme=darkhub&hide_border=true"
-    alt="Top languages"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/
+    ?username=matuhiro97&layout=compact&theme=onedark&hide_border=true"
+    height="170"
+    alt="Top languages"/>
+
   <img
-    src="https://streak-stats.demolab.com?user=matuhiro97&theme=dark&hide_border=true"
-    alt="Streak card"
-  />
+    src="https://streak-stats.demolab.com?user=matuhiro97
+    &theme=dark&hide_border=true"
+    height="170"
+    alt="Streak"/>
 </p>
 
-<!-- 🛰️ METRICS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🚀 METRICS (click to expand)             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <details>
-<summary>🔭 𝙈𝙚𝙩𝙧𝙞𝙘𝙨（クリックで展開）</summary>
+<summary align="center">🔭 𝙈𝙚𝙩𝙧𝙞𝙘𝙨 — open me!</summary>
 
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/matuhiro97?template=classic&isocalendar=1&languages=1&followup=1&traffic=1"
-    alt="Metrics"
-  />
+    src="https://metrics.lecoq.io/matuhiro97
+    ?template=classic&base=header,activity,community
+    &isocalendar=1&languages=1&followup=1&traffic=1
+    &config_timezone=Asia%2FTokyo"
+    alt="Metrics" width="95%"/>
 </p>
-
 </details>
 
-<!-- 🚀 SKILLS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-## 𝙎𝙠𝙞𝙡𝙡 𝙄𝙘𝙤𝙣𝙨
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🛠 SKILL ICONS                           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 𝙎𝙠𝙞𝙡𝙡𝙨
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,ts,react,vue,nodejs,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,ts,react,vue,
+  nodejs,express,firebase,aws,docker,linux" />
 </p>
 
-<!-- 🏆 TROPHY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🏆 TROPHY                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## 𝙏𝙧𝙤𝙥𝙝𝙮
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=matuhiro97&theme=dracula&row=1&column=8&margin-w=10&margin-h=10"
-    alt="Trophies"
-  />
+    src="https://github-profile-trophy.vercel.app/
+    ?username=matuhiro97&theme=gruvbox&titles=Followers,Stars,Commit,PR,Issue,Repositories
+    &row=1&column=6&margin-w=10&margin-h=10"
+    alt="Trophies"/>
 </p>
 
-<!-- 👀 VISITORS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  🎵 NOW PLAYING (Spotify)                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/matuhiro97/count.svg"
-    alt="Visitor Counter"
-  />
+    src="https://spotify-readme-tthn0.vercel.app/api/now-playing?open
+    &username=matuhiro97&theme=dark
+    &height=90"
+    alt="Now Playing"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/catppuccin-wave/main/waves/wave-purple.svg" />
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  👀 VISITOR & FOOTER                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/matuhiro97/count.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?
+type=waving&height=180&section=footer&color=0:1abc9c,50:4834d4,100:8e44ad" />
